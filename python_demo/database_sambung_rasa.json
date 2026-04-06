@@ -1,0 +1,12 @@
+[
+    {
+        "makanan": "rendang",
+        "porsi": 5,
+        "status": "Tersedia"
+    },
+    {
+        "makanan": "dendeng",
+        "porsi": 6,
+        "status": "Tersedia"
+    }
+]
